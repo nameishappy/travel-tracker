@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Muneville-le-Bingard",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-24T12:43:14.903Z",
+      "notes": "",
+      "position": {
+        "lat": "49.1549385508535",
+        "lng": "-1.450192918262432"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Tachilek",
+      "country": "Myanmar",
+      "emoji": "🇲🇲",
+      "date": "2023-07-25T05:36:52.300Z",
+      "notes": "",
+      "position": {
+        "lat": "20.47168563901091",
+        "lng": "99.70512653573469"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Amborompotsy",
+      "country": "Madagascar",
+      "emoji": "🇲🇬",
+      "date": "2023-07-25T05:44:10.656Z",
+      "notes": "",
+      "position": {
+        "lat": "-20.868672459730085",
+        "lng": "46.142629530132155"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Gibeon",
+      "country": "Namibia",
+      "emoji": "🇳🇦",
+      "date": "2023-07-25T05:44:17.206Z",
+      "notes": "",
+      "position": {
+        "lat": "-24.279471155061238",
+        "lng": "16.96304591111141"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Luni Junction",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-03T05:20:38.419Z",
+      "notes": "such a nice place would love to go there again",
+      "position": {
+        "lat": "26.15565523194215",
+        "lng": "73.1250312372971"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Khan Sahib",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-03T05:21:37.486Z",
+      "notes": "",
+      "position": {
+        "lat": "33.90726362193601",
+        "lng": "74.70705467324112"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Yavatmal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-03T15:45:19.272Z",
+      "notes": "nice",
+      "position": {
+        "lat": "20.307043551027597",
+        "lng": "78.04687500000001"
+      },
+      "id": 98443220
+    }
+  ]
+}
